@@ -8,8 +8,12 @@ export default () => {
                 <div className="justify-between items-center gap-12 md:flex">
                     <div className="flex-1 max-w-lg">
                         <h3 className="text-center text-2xl font-bold">
-                           Follow Us on our Social Media
+                           Want to work with us?
+                           
                         </h3>
+                        <span className="text-gray-500 ml-[130px]">Click here to join us. T & C Applied.
+                            </span>
+                            <button className="px-3 mt-2 py-[1px] text-white text-center ml-5 rounded-lg  bg-slate-600 hover:bg-slate-500">Join Us</button>
                     </div>
                 
                 </div>
