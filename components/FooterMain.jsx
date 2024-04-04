@@ -11,7 +11,7 @@ export default () => {
                            Want to work with us?
                            
                         </h3>
-                        <span className="text-gray-500 text-[12px] sm:text-sm sm:ml-[130px] ml-[45px] sm:ml-0">Click here to join us. T & C Applied.
+                        <span className="text-gray-500 text-[12px] sm:text-sm sm:ml-[130px] ml-[45px] ">Click here to join us. T & C Applied.
                             </span>
                             <button className="px-3 mt-2 py-[1px] text-white text-center ml-5 rounded-lg  bg-slate-600 hover:bg-slate-500">Join Us</button>
                     </div>
