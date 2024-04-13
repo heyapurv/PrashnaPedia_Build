@@ -17,7 +17,7 @@ export default () => {
 
             ,
             title: "Follow us on X (formerly Twitter)",
-            desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            desc: "We are active on twitter feel free to contact us",
             link: {
                 name: "Send us DMs",
                 href: "javascript:void(0)"
