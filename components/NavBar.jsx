@@ -53,8 +53,8 @@ export default () => {
     return (
         <>
         
-        <div className='relative' >
-            <div  ></div>
+        <div className='relative shadow-lg rounded-3xl' >
+            
             <div className='relative' >
                 <header className='relative'>
                     {/* <div className={`md:hidden ${state ? "mx-2 pb-5" : "hidden"}`}>
@@ -68,7 +68,7 @@ export default () => {
                                     {
                                         navigation.map((item, idx) => {
                                             return (
-                                                <li key={idx} className="text-gray-700 hover:text-gray-600 hover:underline">
+                                                <li key={idx} className="text-gray-700 hover:text-gray-600 text-lg hover:underline">
                                                     <Link to={item.path} className="block">
                                                         {item.title}
                                                     </Link>

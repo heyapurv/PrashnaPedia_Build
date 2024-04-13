@@ -21,7 +21,6 @@ function App() {
         <Route exact path='/papers' element={<Tables/>}></Route>
         <Route exact path='/about' element={<Tables/>}></Route>
       </Routes>
-      {/* <Tables/> */}
       <FooterMain/>
     </>
   )

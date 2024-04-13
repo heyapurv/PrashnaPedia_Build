@@ -26,7 +26,7 @@ export default () => {
     }
 
     return (
-        <div className="max-w-screen-xl mx-auto px-4 md:px-8">
+        <div className="max-w-screen-xl mx-auto px-4 md:px-8 sm:py-10 py-5" >
             <div className="max-w-lg">
                 <h3 className="text-gray-800 text-xl font-bold sm:text-2xl">
                     BE Previous Year Question Papers
