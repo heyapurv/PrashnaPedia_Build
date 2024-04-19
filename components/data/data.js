@@ -73,68 +73,76 @@ const tableItems = [
                 prop: "Engineering Mathematics - III",
                 sem: "3",
                 impression: "Good",
-                available:"Yes",
+                available:"No",
                 link: "https://www.google.com/",
                 current:"W-23"
             },
             {
                 prop: "Object Oriented Programming",
                 sem: "3",
-                available:"Yes",
+                available:"No",
                 impression: "Good",
                 current:"W-23"
             },
             {
                 prop: "Analog and Digital Electronics",
                 sem: "3",
-                available:"Yes",
+                available:"No",
                 impression: "Good",
                 current:"W-23"
             },
             {
                 prop: "Discrete Structure & Graph Theory",
                 sem: "3",
-                available:"Yes",
+                available:"No",
                 impression: "Good",
                 current:"W-23"
             },
             {
                 prop: "Assembly Language Programming",
                 sem: "3",
-                available:"Yes",
+                available:"No",
                 impression: "Good",
                 current:"W-23"
             },
             {
                 prop: "Data Structure",
                 sem: "4",
-                available:"Yes",
+                available:"No",
                 impression: "Normal",
                 current:"W-23"
             },
             {
                 prop: "Computer Organization and Architecture",
                 sem: "4",
-                available:"Yes",
                 impression: "Normal",
-                current:"W-23"
+                current:"W-22",
+                available:"Yes",
+                link: "https://drive.google.com/file/d/1aJa5x7cGtSA4tL-qL9ba-jebcbk76864/view?usp=drive_link",
+                latest:"",
+                latesta:"",
+                linklatest:""
             },
             {
                 prop: "Data Communication & Networking",
                 sem: "4",
-                available:"Yes",
+                available:"No",
                 impression: "Normal",
                 current:"W-23"
+            },
+            {
+                prop: " Operating System",
+                sem: "4",
+                current: "W-22",
+                available:"Yes",
+                link:"https://drive.google.com/file/d/1V7OSZScf7Yx4pUhUWMmoowd5rItwy1qa/view?usp=drive_link",
+                impression: "Normal",
+                latest:"",
+                latesta:"",
+                linklatest:""
             },
             {
                 prop: "Social Science & Engineering Economics",
-                sem: "4",
-                available:"Yes",
-                impression: "Normal",
-                current:"W-23"
-            },
-            {
-                prop: "Operating System",
                 sem: "4",
                 available:"Yes",
                 impression: "Normal",
