@@ -108,9 +108,12 @@ const tableItems = [
             {
                 prop: "Data Structure",
                 sem: "4",
-                available:"No",
-                impression: "Normal",
-                current:"W-23"
+                current:"W-22",
+                available:"Yes",
+                link: "https://drive.google.com/file/d/1jeS0TC4ZP1DVLp5ASc7H6amLFSlgD3Pt/view?usp=drive_link",
+                latest:"",
+                latesta:"",
+                linklatest:""
             },
             {
                 prop: "Computer Organization and Architecture",
@@ -126,6 +129,8 @@ const tableItems = [
             {
                 prop: "Data Communication & Networking",
                 sem: "4",
+                current:"",
+                link:"https://drive.google.com/file/d/1vvBv59-o5Sz1SbF598Anknjt6q6UJTXg/view?usp=drive_link",
                 available:"No",
                 impression: "Normal",
                 current:"W-23"
@@ -144,9 +149,13 @@ const tableItems = [
             {
                 prop: "Social Science & Engineering Economics",
                 sem: "4",
+                current: "W-22",
                 available:"Yes",
+                link:"https://drive.google.com/file/d/1RoghCfUDpBUMkVHXqKOnnciIQmFiGNLg/view?usp=drive_link",
                 impression: "Normal",
-                current:"W-23"
+                latest:"",
+                latesta:"",
+                linklatest:""
             },
             {
                 prop: "Environmental Studies",
