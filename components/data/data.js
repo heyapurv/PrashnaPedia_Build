@@ -129,9 +129,9 @@ const tableItems = [
             {
                 prop: "Data Communication & Networking",
                 sem: "4",
-                current:"",
+                current:"W-22",
                 link:"https://drive.google.com/file/d/1vvBv59-o5Sz1SbF598Anknjt6q6UJTXg/view?usp=drive_link",
-                available:"No",
+                available:"Yes",
                 impression: "Normal",
                 current:"W-23"
             },
