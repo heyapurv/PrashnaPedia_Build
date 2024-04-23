@@ -19,7 +19,7 @@ const News = () => {
                                News
                             </div>
                             <p className="md:font-medium p-2 text-sm ">
-                               New Papers added!{' '}
+                               IT SEM 4 - Winter 22 Papers added!{' '}
                                 <a  className="font-semibold underline duration-150 hover:text-indigo-100 inline-flex items-center gap-x-1">
                                    Explore now
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className=" w-5 h-5">
